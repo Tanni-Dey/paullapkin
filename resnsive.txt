@@ -1,0 +1,128 @@
+Extra small devices (portrait phones, less than 576px)
+@media (max-width 575.98px) { 
+	.hero_content h1 {
+		font-size 34px;
+	}
+
+	.hero_content h1before {
+		width 100%;
+	}
+
+	.hero_content h1after {
+		width 100%;
+	}
+
+	.hero_content p {
+		font-size 16px;
+	}
+	.about_img{
+		text-align center;
+	}
+	.about_img img{
+		width 300px;
+	}
+	.about_content{
+		text-align center;
+		padding 50px 0;
+	}
+	.sigle_p {
+		margin-bottom 30px;
+	}
+	.single_testimonial {
+		width 100%;
+	}
+
+	.sigle_p {
+		height 210px;
+		padding-top 48px;
+	}
+
+ }
+
+
+
+Small devices (landscape phones, 576px and up)
+@media (min-width 576px) and (max-width 767.98px) { 
+
+	.hero_content h1 {
+		font-size 63px;
+	}
+	.hero_content p {
+		font-size 24px;
+	}
+	.about_img{
+		text-align center;
+	}
+	.about_img img{
+		width 300px;
+	}
+	.about_content{
+		text-align center;
+		padding 50px 0;
+	}
+	.sigle_p {
+		margin-bottom 30px;
+	}
+	.single_testimonial {
+		width 100%;
+	}
+
+ }
+
+
+
+ Medium devices (tablets, 768px and up)
+@media (min-width 768px) and (max-width 991.98px) { 
+
+	.about_img{
+		text-align center;
+	}
+	.about_content{
+		text-align center;
+		padding 50px 0;
+	}
+	.sigle_p {
+	    height 190px;
+	    padding-top 55px;
+	}
+	.sigle_p img{
+		padding-bottom 25px;
+	}
+	.info_wrapper {
+    	padding 50px 20px;
+    }
+	.c_widget {
+    	padding 50px 20px;
+    }
+    .cpd {
+	    padding-bottom 13px;
+	}
+
+ }
+
+
+
+ Large devices (desktops, 992px and up)
+@media (min-width 992px) and (max-width 1199.98px) { 
+
+	.about_img img{
+		width 100%;
+	}
+	.about_content {
+	    padding-top 50px;
+	}
+	.sigle_p {
+	    height 230px;
+	    padding-top 70px;
+	}
+
+ }
+
+
+
+ Extra large devices (large desktops, 1200px and up)
+@media (min-width 1200px) { 
+
+	
+
+ }
